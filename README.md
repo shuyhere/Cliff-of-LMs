@@ -1,5 +1,11 @@
 # cliff-of-LLMs
 
+
+### Existing attempts to address local optimia 
+#### [SELF-TAUGHT OPTIMIZER (STOP): RECURSIVELY SELF-IMPROVING CODE GENERATION](https://arxiv.org/pdf/2310.02304.pdf)
+
+
+
 ### Large Language Models as Evaluator
 
 #### [Style Over Substance: Evaluation Biases for Large Language Models](https://arxiv.org/abs/2307.03025)
